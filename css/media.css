@@ -1,0 +1,79 @@
+
+/*Equivalente a col xs*/
+@media (max-width: 768px) {
+  .second-responsive h1 {
+    color: #FFF;
+    font-size: 5vh;
+    line-height: 1;
+    text-align: center;
+    font-weight: bold;
+  }
+  .second-responsive p {
+    color: #FFF;
+    font-size: 4vh;
+    line-height: 1;
+    font-weight: bold;
+  }
+  .second-responsive img {
+    margin-left: 3vh;
+    height: 50vh;
+  }
+  .fourth-section .btn-primary {
+    margin-left: 30%;
+  }
+  footer ul {
+    margin-left: -51%;
+  }
+  .icons {
+    margin-top: -115%;
+  }
+  .appstore {
+  margin-top: 10%;
+  }
+}
+
+/*Equivalente a col sm*/
+@media (min-width: 768px) and (max-width: 991px) {
+  .second-responsiveh1 {
+    color: #FFF;
+    font-size: 5vh;
+    line-height: 1;
+    font-weight: bold;
+  }
+  .second-responsive p {
+    color: #FFF;
+    font-size: 4vh;
+    line-height: 1;
+    font-weight: bold;
+  }
+  .second-responsive img {
+    align-content: center;
+    height: 50vh;
+  }
+  .fourth-section .btn-primary {
+    margin-left: 30%;
+  }
+  footer ul {
+    margin-left: -51%;
+  }
+  .icons {
+    margin-top: -115%;
+  }
+  .appstore {
+  margin-top: 10%;
+  }
+}
+
+/*Equivalente a col md*/
+@media (min-width: 992px) and (max-width: 1199px) {
+  
+}
+
+/*Equivalente a col lg*/
+@media (min-width: 1200px) {
+  
+}
+
+
+
+
