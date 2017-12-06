@@ -21,11 +21,9 @@
   .fourth-section .btn-primary {
     margin-left: 30%;
   }
-  footer ul {
-    margin-left: -51%;
-  }
+  
   .icons {
-    margin-top: -115%;
+    margin-top: -44%;
   }
   .appstore {
   margin-top: 10%;
@@ -53,24 +51,22 @@
   .fourth-section .btn-primary {
     margin-left: 30%;
   }
-  footer ul {
-    margin-left: -51%;
-  }
+  
   .icons {
-    margin-top: -115%;
+    margin-top: -46%;
   }
   .appstore {
   margin-top: 10%;
   }
-}
+ }
 
 /*Equivalente a col md*/
 @media (min-width: 992px) and (max-width: 1199px) {
-  
 }
 
 /*Equivalente a col lg*/
 @media (min-width: 1200px) {
+  
   
 }
 

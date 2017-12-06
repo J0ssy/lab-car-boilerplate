@@ -43,7 +43,7 @@ h1, .navbar-brand {
   margin-right: -2.3vh;
   background-color: #F7B617;
   border: none;
-  border-radius: none;
+  border-radius: 0;
   padding: 6vh;
   color: #FFF;
   margin-left: -15px;
@@ -112,7 +112,6 @@ h1, .navbar-brand {
 .second-section img {
   height: 60vh;
 }
-
 
 .third-section {
   background-image: url(../assets/images/conduce.jpg);
@@ -217,6 +216,7 @@ footer img {
 
 footer ul {
   list-style: none;
+  margin-left: 0;
 }
 
 footer li {
